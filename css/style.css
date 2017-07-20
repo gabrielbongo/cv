@@ -1,6 +1,8 @@
 body{
   text-align: center;
+display:flex;
 }
+
 h2{
   text-align: center;
 }
@@ -11,4 +13,11 @@ padding: 35px;
 }
 h3{
   border: 1px solid;
+}
+ p{
+   margin-top: 50px;
+ }
+.contact{
+  background-color: black;
+  color:white;
 }
